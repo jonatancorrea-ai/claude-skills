@@ -41,9 +41,12 @@ Aquí se concentran las skills listas para copiar y pegar en Claude, cada una en
 ## 🚀 Cómo usar estas skills
 
 1. Abre el archivo de la skill que quieras usar (por ejemplo, `skill-responder-emails-gmail.md`).  
-2. Copia TODO el contenido de ese archivo.  
-3. Pégalo en Claude (web, desktop o Claude Code) cada vez que quieras que ejecute esa tarea específica.  
-4. Dale el contexto real (correo, guion de presentación, etc.) y deja que la skill haga el trabajo.
+2. Copia TODO el contenido de ese archivo y personaliza según los interes de tu negocio o proyecto.  
+3. Pégalo en Claude en NUEVA SKILL y guarda para crearla. (disponible web, desktop o Claude Code) 
+4. Pídele una tarea (correo, guion de presentación, etc.) y deja que la skill haga el trabajo.
+
+**Importante:** Tambien puedes descargar aqui el archivo de la skill en formato .md y luego subirlo directo a Claude.
+
 
 ---
 
