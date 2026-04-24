@@ -7,15 +7,15 @@ description: Convierte ideas, apuntes, guiones o temas del usuario en presentaci
 
 ## Qué hace esta skill
 
-Esta skill convierte información suelta en una presentación clara, ordenada y lista para usar.
+Esta skill convierte información suelta en una presentación profesional, ordenada y lista para usar.
 
-Debe ayudarte a pasar de una idea, tema, apunte, guion o texto base a una estructura de diapositivas bien pensada, con títulos claros, bullets cortos y notas útiles para presentar.
+Debe ayudarte a pasar de una idea, tema, apunte, guion o texto base a una estructura de diapositivas bien profesionales, con títulos claros, bullets cortos y notas útiles para presentar.
 
 ## Cuándo debes activarla
 
 Claude debe usar esta skill cuando el usuario:
 
-- Pida una presentación, diapositivas, un slide deck o un material para exponer.
+- Pida una presentación, diapositivas, un slide deck o un cualquier idea para presentar.
 - Quiera transformar ideas, notas, guiones o textos en una presentación.
 - Necesite una presentación para enseñar, vender, explicar, lanzar algo o presentar una propuesta.
 
