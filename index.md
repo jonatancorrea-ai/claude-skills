@@ -1,4 +1,4 @@
-# Claude Skills
+# Claude Skills⚡
 
 Repositorio de skills de la serie CLAUDE 101.
 
